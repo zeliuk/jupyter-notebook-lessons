@@ -1,6 +1,6 @@
-# ![Jupyter](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg) <br>Notebook Practises
+# ![Jupyter](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg) <br>Notebook Practices
 
-*This repository is only for personal practise purpose* 😝
+*This repository is only for personal practices purpose* 😝
 
 ### ⚙️ Prerequisites
 
