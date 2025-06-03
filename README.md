@@ -1,4 +1,4 @@
-# <div style="display:flex; align-items:center; gap:10px"><img src="https://jupyter.org/assets/homepage/main-logo.svg" alt="drawing" style="width:130px; padding-top: 10px"/><span>Notebook Practises</span></div>
+# ![Jupyter](https://jupyter.org/assets/logos/rectanglelogo-greytext-orangebody-greymoons.svg) <br>Notebook Practises
 
 *This repository is only for personal practise purpose* 😝
 
